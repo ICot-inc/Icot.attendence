@@ -39,7 +39,6 @@
 <body>
   <div class="container">
     <img src="image.png" alt="ICOT Logo" class="logo">
-    <h2>Student Registration Details</h2>
     <div class="details">
       <p><strong>Registration ID:</strong> 2311049C</p>
       <p><strong>Letter Issue Date:</strong> 15/05/2025</p>
